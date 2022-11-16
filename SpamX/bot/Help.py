@@ -38,110 +38,110 @@ async def help(_, e: Message):
 
 
 spam_help = f"""
-**• Spam Cmds •**
+**• sᴘᴀᴍ ᴄᴍᴅs•**
 
-**spam**: Spams a message for given counter (no Count limit)
-syntax:
+**sᴘᴀᴍ**: sᴘᴀᴍs ᴀ ᴍᴇssᴀɢᴇ ғᴏʀ ɢɪᴠᴇɴ ᴄᴏᴜɴᴛᴇʀ (ɴᴏ ᴄᴏᴜɴᴛ ʟɪᴍɪᴛ)
+sʏɴᴛᴀx:
  {hl}spam (count) (message to spam)
  {hl}delayspam (delay time In seconds) (count) (message to spam) 
  {hl}fspam (count) (message to spam)
  {hl}pornspam (count)
  {hl}ispam (count) (username or reply to user)
 
-**raid:** Activates raid on any individual user for given range.
-syntax:
+**ʀᴀɪᴅ:** ᴀᴄᴛɪᴠᴀᴛᴇs ʀᴀɪᴅ ᴏɴ ᴀɴʏ ɪɴᴅɪᴠɪᴅᴜᴀʟ ᴜsᴇʀ ғᴏʀ ɢɪᴠᴇɴ ʀᴀɴɢᴇ.
+sʏɴᴛᴀx:
  {hl}raid (count) (username or user id)
  {hl}replyraid (username or reply to user)
  {hl}dreplyraid (username or reply to user)
  
-**Hang:** Hang Message Spam
-syntax:
+**ʜᴀɴɢ:** ʜᴀɴɢ ᴍᴇssᴀɢᴇ sᴘᴀᴍ
+sʏɴᴛᴀx:
 {hl}hang (counts)
 
 
-**© @RiZoeLX**
+**© @HYPER_X_RACHIT**
 """
 
 
 dm_help = f"""
-**• Dm Cmds •**
+**• ᴅᴍ sᴘᴀᴍs•**
 
-**Dm:** Dm to any individual using spam bots
-command:
+**ᴅᴍ:** ᴅᴍ ᴛᴏ ᴀɴʏ ɪɴᴅɪᴠɪᴅᴜᴀʟ ᴜsɪɴɢ sᴘᴀᴍ ʙᴏᴛs
+ᴄᴏᴍᴍᴀɴᴅ:
   {hl}dm (username or user id) (message)
 
-**Dm Spam:** Spam in Dm of Any individual Users
-command:
+**ᴅᴍ sᴘᴀᴍ:** sᴘᴀᴍ ɪɴ ᴅᴍ ᴏғ ᴀɴʏ ɪɴᴅɪᴠɪᴅᴜᴀʟ ᴜsᴇʀs
+ᴄᴏᴍᴍᴀɴᴅ:
   {hl}dmspam (username or user id) (count)  (message to spam)
 
-**Dm Raid:** raid in Dm of Any individual Users
-command:
+**ᴅᴍ ʀᴀɪᴅ:** ʀᴀɪᴅ ɪɴ ᴅᴍ ᴏғ ᴀɴʏ ɪɴᴅɪᴠɪᴅᴜᴀʟ ᴜsᴇʀs
+ᴄᴏᴍᴍᴀɴᴅ:
   {hl}dmraid (count) (username or user id)
 
-**© @RiZoeLX**
+**© @ʜʏᴘᴇʀ_x_ʀᴀᴄʜɪᴛ**
 """
 
 leave_help = f"""
-**• Leave Cmds •**
+**• ʟᴇᴀᴠᴇ ᴄᴍᴅs •**
 
-**leave:** Leave any Public/private Group or Channel
-syntax:
+**ʟᴇᴀᴠᴇ:** ʟᴇᴀᴠᴇ ᴀɴʏ ᴘᴜʙʟɪᴄ/ᴘʀɪᴠᴀᴛᴇ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ
+sʏɴᴛᴀx:
 i) {hl}leave group Username or chat user id
 ii) {hl}leave
 
-**© @RiZoeLX**
+**© @HYPER_X_RACHIT**
 """
 
 userbot_help = f"""
-**• Userbot Cmds •**
+**• ᴜsᴇʀʙᴏᴛ ᴄᴍᴅs •**
 
-- {hl}ping : To check Ping 
+- {hl}ᴘɪɴɢ : ᴛᴏ ᴄʜᴇᴄᴋ ᴘɪɴɢ
 
-- {hl}alive : To check Bot Version and Other info
+- {hl}ᴀʟɪᴠᴇ : ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ ᴠᴇʀsɪᴏɴ ᴀɴᴅ ᴏᴛʜᴇʀ ɪɴғᴏ
 
-- {hl}restart : To Restart Your Spam Bots
+- {hl}ʀᴇsᴛᴀʀᴛ : ᴛᴏ ʀᴇsᴛᴀʀᴛ ʏᴏᴜʀ sᴘᴀᴍ ʙᴏᴛs
 
-**© @RiZoeLX**
+**© @HYPER_X_RACHIT**
 """
 
 help_menu = f"""
-**SpamX Help Menu **
+**ʜʏᴘᴇʀ x sᴘᴀᴍ ʜᴇʟᴘ ᴍᴇɴᴜ **
 
-**There are following categories**
+**ᴛʜᴇʀᴇ ᴀʀᴇ ғᴏʟʟᴏᴡɪɴɢ ᴄᴀᴛᴇɢᴏʀɪᴇs**
 
-`owner` : Get all owner commands and its usage
-`spam` : Get all spam commands and its usage
-`dm` : Get all dm commands and its usage
-`join` : Get join commands and its usage
-`leave` : Get leave commands and its usage
-`userbot` : Get all userbot commands
-`extra` : Get all extra Cmds 
+`owner` : ɢᴇᴛ ᴀʟʟ ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ɪᴛs ᴜsᴀɢᴇ
+`spam` : ɢᴇᴛ ᴀʟʟ sᴘᴀᴍ ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ɪᴛs ᴜsᴀɢᴇ
+`dm` : ɢᴇᴛ ᴀʟʟ ᴅᴍ ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ɪᴛs ᴜsᴀɢᴇ
+`join` : ɢᴇᴛ ᴊᴏɪɴ ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ɪᴛs ᴜsᴀɢᴇ
+`leave` : ɢᴇᴛ ʟᴇᴀᴠᴇ ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ɪᴛs ᴜsᴀɢᴇ
+`userbot` : ɢᴇᴛ ᴀʟʟ ᴜsᴇʀʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs
+`extra` : ɢᴇᴛ ᴀʟʟ ᴇxᴛʀᴀ ᴄᴍᴅs
 
-**Type** {hl}help (category) **to get all syntax in that category and its usage**
+**Type** {hl}help (category) **ᴛᴏ ɢᴇᴛ ᴀʟʟ sʏɴᴛᴀx ɪᴍ ᴛʜᴀᴛ ᴄᴀᴛᴇɢᴏʀʏ ᴀɴᴅ ɪᴛs ᴜsᴀɢᴇ**
 **Example**: `{hl}help spam`
 
-**© @RiZoeLX**
+**© @HYPER_X_RACHIT**
 """
 
 
 extra_help = f"""
-**• Unlimited Cmds •**
+**• ᴜɴʟɪᴍɪᴛᴇᴅ ᴄᴍᴅs •**
 
-**Unlimited spam**
-syntax:
+**ᴜɴʟɪᴍɪᴛᴇᴅ sᴘᴀᴍ**
+sʏɴᴛᴀx:
  {hl}uspam (message to spam)
 
-**Unlimited raid**
-syntax:
+**ᴜɴʟɪᴍɪᴛᴇᴅ ʀᴀɪᴅ**
+sʏɴᴛᴀx:
  {hl}uraid (username or user id / reply to user)
 
-**Abuse / One Word**
-syntax:
+**ᴀʙᴜss / ᴏɴᴇ ᴡᴏʀᴅ**
+sʏɴᴛᴀx:
   {hl}absue (counts)
 
-  **Read**: if you want unlimited abuse simply type {hl}abuse -!
+  **ʀᴇᴀᴅ**: ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀʙᴜsᴇ sɪᴍᴘʟʏ ᴛʏᴘᴇ {hl}abuse -!
 
-**stop cmd**: Simply type {hl}stop to stop spam/abuse/raid any of that 
+**sᴛᴏᴘ ᴄᴍᴅ**: sɪᴍᴘʟʏ ᴛʏᴘᴇ {hl}stop ᴛᴏ sᴛᴏᴘ sᴘᴀᴍ/ᴀʙᴜsᴇ/ʀᴀɪᴅ ᴀɴʏ ᴏғ ᴛʜᴀᴛ
 
-**© @RiZoeLX**
+**© @HYPER_X_RACHIT**
 """
